@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming, Java and mciroservices
 - ⚡ Fun Fact: I'm worse at what I do best
 
-🌐 Socials
-- [linkedin](https://www.linkedin.com/in/sunny-saurav-a9100810/)
+
