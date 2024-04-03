@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 Love to debug code more than writing
 - 🚀 I’m Interested in problem solving, cloud computing and big data engineering
-🌱 Currently I am learning about Scala, Spark, IAC
-💬 Ask me about programming, Java and mciroservices
-⚡ Fun Fact: I'm worse at what I do best
+- 🌱 Currently I am learning about Scala, Spark, IAC
+- 💬 Ask me about programming, Java and mciroservices
+- ⚡ Fun Fact: I'm worse at what I do best
