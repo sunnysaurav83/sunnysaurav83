@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🌱 Currently I am learning about Scala, Spark, IAC
 - 💬 Ask me about programming, Java and mciroservices
 - ⚡ Fun Fact: I'm worse at what I do best
+
+🌐 Socials
+[a link](https://www.linkedin.com/in/sunny-saurav-a9100810/)
