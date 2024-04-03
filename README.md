@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun Fact: I'm worse at what I do best
 
 🌐 Socials
-[a link](https://www.linkedin.com/in/sunny-saurav-a9100810/)
+- [linkedin](https://www.linkedin.com/in/sunny-saurav-a9100810/)
